@@ -7,10 +7,7 @@ public class Pattern17 {
             for(int space =0;space<n-rows;space++){
                 System.out.print("* ");
             }
-            for(int num =1;num<=2*(rows -1) + 1;num++){
-                  
-                
-            }
+            
             
             System.out.println();
         }
